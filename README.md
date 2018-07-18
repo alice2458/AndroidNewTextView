@@ -1,0 +1,2 @@
+# AndroidNewTextView
+TextView例子
